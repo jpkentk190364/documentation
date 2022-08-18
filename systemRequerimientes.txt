@@ -1,0 +1,76 @@
+1- Introduction 
+
+1.1 Background of the study
+Paragraph
+
+1.2 Purpose of the projects
+
+1.3 objectives of the project
+
+1.4 Project scope and limitations
+
+1.5 assumptions
+
+2 - Projects deliveries
+
+3- system requirements
+
+
+
+3.1 functional requirements 
+FR.no	Functional requirements	Comments
+FR1	User registration	Login system
+FR2	Customer login	
+FR3 not function requirements	About us - 	
+FR4 not function requirements	social media - newsletter	
+FR5	Product catalog	
+FR6	Payment mode	
+FR7	Search product	
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+3.1 No functional requirements 
+FR.no	not function requirements	Comments
+FR1		
+FR2	security	MD5 (encryption)
+FR3 	scability	
+FR4 	performance	cache
+FR5		
+FR6		
+FR7		
+		
+
+4 Software and hardware architect diagram
+
+5- use case diagram
+ 
+
+6 Contacts diagrams (draw.io)
+7 data flow diagramas
+8 System design
+8.1 User interface design
+
+
+
+
+9 sequence diagrams
+
+10  
+
+
+10. Entity relationship diagram  
+Blob for images in sql
+
+
+For user interface design will be 20 different user interfaces design
+Use different tools for ID - UX
